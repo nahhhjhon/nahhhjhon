@@ -18,4 +18,4 @@ I'm a STEM learner passionate about technology and software development. I enjoy
 - Git & GitHub
 
 ## 📫 Connect with me
-- GitHub: [github.com/yourusername](https://github.com/nahhhjhon)
+- GitHub: [github.com/nahhhjhon](https://github.com/nahhhjhon)
